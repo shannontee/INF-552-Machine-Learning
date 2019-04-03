@@ -24,3 +24,7 @@ Feature extraction from time series:
   - Random Forest
   - Handling Class Imbalance
   - Logistic Model Tree by Weka
+  
+<b> Homework 5: <br/>
+  Multi-class and Multi-Label Classification Using Support Vector Machines </b> br/>
+  <b> K-Means Clustering on a Multi-Class and Multi-Label Data Set </b> <br/>
