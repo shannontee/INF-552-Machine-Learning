@@ -28,3 +28,12 @@ Feature extraction from time series:
 <b> Homework 5: <br/>
   Multi-class and Multi-Label Classification Using Support Vector Machines </b> <br/>
   <b> K-Means Clustering on a Multi-Class and Multi-Label Data Set </b> <br/>
+  
+  <b> Homework 6: <br/>
+  Supervised, Semi-Supervised, and Unsupervised Learning </b> <br/>
+  <b> Active Learning Using Support Vector Machines </b> <br/>
+  
+  <b> Homework 7: <br/>
+ Generative Models for Text </b> <br/>
+  <b> (Deep) CNNs for Image Colorization </b> <br/>
+
