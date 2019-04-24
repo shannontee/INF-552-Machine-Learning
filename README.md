@@ -27,13 +27,19 @@ Feature extraction from time series:
   
 <b> Homework 5: <br/>
   Multi-class and Multi-Label Classification Using Support Vector Machines </b> <br/>
+  
   <b> K-Means Clustering on a Multi-Class and Multi-Label Data Set </b> <br/>
   
   <b> Homework 6: <br/>
   Supervised, Semi-Supervised, and Unsupervised Learning </b> <br/>
+ Examine results of different supervised, unsupervised, and semi-supervised learning methods on the same dataset.
+  
   <b> Active Learning Using Support Vector Machines </b> <br/>
+  Implement and compare Passive Learning and Active Learning using SVMs
   
   <b> Homework 7: <br/>
  Generative Models for Text </b> <br/>
+ Build a generative model to mimic the writing style of Bertrand Russell using an LSTM Neural Network
+ 
   <b> (Deep) CNNs for Image Colorization </b> <br/>
-
+Turns grayscale images to a colored images using a CNN to perform the image colorization 
