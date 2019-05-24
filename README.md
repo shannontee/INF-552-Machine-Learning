@@ -27,8 +27,10 @@ Feature extraction from time series:
   
 <b> Homework 5: <br/>
   Multi-class and Multi-Label Classification Using Support Vector Machines </b> <br/>
+  Using one vs. all classifier to train a SVM for each of the labels using Gaussian kernels and L1-penalized
   
   <b> K-Means Clustering on a Multi-Class and Multi-Label Data Set </b> <br/>
+  Perform K-Means Clustering on data set and determine majority labeling by reading true labels to calculate the Hamming score
   
   <b> Homework 6: <br/>
   Supervised, Semi-Supervised, and Unsupervised Learning </b> <br/>
